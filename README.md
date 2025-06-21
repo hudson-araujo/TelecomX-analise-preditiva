@@ -49,8 +49,7 @@ Para replicar a análise e os modelos:
 
 1.  **Clone o Repositório**:
     ```bash
-    git clone [https://github.com/ingridcristh/challenge2-data-science.git](https://github.com/ingridcristh/challenge2-data-science.git)
-    cd challenge2-data-science
+    git clone (https://github.com/hudson-araujo/TelecomX-analise-preditiva.git)
     ```
 
 2.  **Crie e Ative um Ambiente Virtual (Recomendado)**:
